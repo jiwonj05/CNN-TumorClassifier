@@ -57,7 +57,3 @@ This project requires the following Python packages:
 - Keras
 - NumPy
 - Matplotlib
-
-## License
-
-
